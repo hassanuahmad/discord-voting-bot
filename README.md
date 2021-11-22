@@ -1,4 +1,4 @@
-# Discord-Voting-BOT
+# discord-voting-bot
 This is a Discord BOT that allows users to vote for maps, admins and removing players from 10mans
 
 ### Commands:
