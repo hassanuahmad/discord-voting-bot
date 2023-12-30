@@ -1,7 +1,8 @@
-# discord-voting-bot
+# Discord Voting Bot
+
 This is a Discord BOT that allows users to vote for maps, admins and removing players from 10mans
 
-### Commands
+> Commands
 
  - !map map1 map2 map3 
   (This command takes infinite number of maps and puts each map in a new line and reacts with +1)
@@ -13,7 +14,8 @@ This is a Discord BOT that allows users to vote for maps, admins and removing pl
   (This command takes a player and reacts with +1 and -1)
 
 ![Screenshot](discord-voting-bot.png)  
+
 ## Tech Stack
 
- - Python
- - ~~discord.py~~
+* Python
+* discord.py
